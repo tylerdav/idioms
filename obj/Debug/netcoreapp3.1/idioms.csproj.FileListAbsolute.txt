@@ -1,0 +1,11 @@
+C:\Users\tdavi\workspace\csharp\exercises\idioms\obj\Debug\netcoreapp3.1\idioms.csprojAssemblyReference.cache
+C:\Users\tdavi\workspace\csharp\exercises\idioms\obj\Debug\netcoreapp3.1\idioms.AssemblyInfoInputs.cache
+C:\Users\tdavi\workspace\csharp\exercises\idioms\obj\Debug\netcoreapp3.1\idioms.AssemblyInfo.cs
+C:\Users\tdavi\workspace\csharp\exercises\idioms\bin\Debug\netcoreapp3.1\idioms.exe
+C:\Users\tdavi\workspace\csharp\exercises\idioms\bin\Debug\netcoreapp3.1\idioms.deps.json
+C:\Users\tdavi\workspace\csharp\exercises\idioms\bin\Debug\netcoreapp3.1\idioms.runtimeconfig.json
+C:\Users\tdavi\workspace\csharp\exercises\idioms\bin\Debug\netcoreapp3.1\idioms.runtimeconfig.dev.json
+C:\Users\tdavi\workspace\csharp\exercises\idioms\bin\Debug\netcoreapp3.1\idioms.dll
+C:\Users\tdavi\workspace\csharp\exercises\idioms\bin\Debug\netcoreapp3.1\idioms.pdb
+C:\Users\tdavi\workspace\csharp\exercises\idioms\obj\Debug\netcoreapp3.1\idioms.dll
+C:\Users\tdavi\workspace\csharp\exercises\idioms\obj\Debug\netcoreapp3.1\idioms.pdb
